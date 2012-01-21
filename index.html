@@ -7,13 +7,13 @@ layout: default
 
 <br />
 
-<p>My name is Roman Tronenko and I am testing GitHub Pages.</p>
+<p>My name is Roman Tronenko and you are visiting my Blog at GitHub Pages.</p>
 
 <hr />
 
-<h3>Blog Posts</h3> 
+<h3>Blog Posts:</h3> 
 <ul>
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> : <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span class="label success">New!</span> <span>{{ post.date | date_to_string }}</span> : <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
