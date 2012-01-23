@@ -5,9 +5,18 @@
   <title>{% if page.title %}{{ page.title }} |{% endif %} Tronenko.net</title>
   <link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css">
   <link rel="stylesheet" href="/css/style.css" /> 
+
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js">
+  </script>
+  <script type="text/javascript" src="/js/jquery.jplayer.min.js">
+  </script>
 </head>
 <body>
- 
+	<ul class="tabs">
+	  <li {% if page.section == "blog" %} class="active"{% endif %}><a href="/">Blog</a></li>
+	  <li {% if page.section == "music" %} class="active"{% endif %}><a href="/music">Music</a></li>
+	
+	</ul>
   <div id="main" class="container">
  
     <header>
