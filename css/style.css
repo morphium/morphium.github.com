@@ -6,7 +6,8 @@ body {
 	background-color: #eee;
 	padding-top: 0px;
 	padding-left: 30px;
-	margin-top: 0px;
+	margin-top: 0px; 
+	box-shadow: 0 0 5px #888;
 }
 
 .row {
@@ -15,5 +16,24 @@ body {
 }
 
 .tabs {
-	padding-left: 160px;
+	padding-left: 150px;
+	margin-bottom: 0px;
+	border-color: #444;
+}
+
+.tabs .active a{
+	background-color: #eee;
+	color: #000;
+}
+
+.container {
+	
+}
+
+a {
+	color: #dd0000;
+}
+
+a:hover {
+	color: #dd0000;
 }
