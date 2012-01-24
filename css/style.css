@@ -22,9 +22,11 @@ body {
 	border-color: #444;
 }
 
-.tabs .active a{
+.tabs .active a {
 	background-color: #eee;
 	color: #000; 
+	border: 1px solid #444;
+	border-bottom-color: #eee;
 }
 
 .tabs .active a:hover{
