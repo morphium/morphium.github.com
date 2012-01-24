@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: I am learning to use Markdown
+title: I am learning to use Markdown <span class="label success">New!</span> 
 ---
 
 ####Header

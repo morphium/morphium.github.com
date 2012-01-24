@@ -8,15 +8,17 @@ section: blog
 
 <br />
 
-<p>My name is Roman Tronenko and you are visiting my Blog at GitHub Pages.</p>
+<p>My name is Roman Tronenko and you are visiting my Blog.</p>
+<p>I blog rather seldom, but I will try to share my thoughts, <br/>
+ideas and impressions, if I have an inspiration.
+</p>
 
-<hr />
-
+<hr /> 
 <h3>Blog Posts:</h3> 
 <ul>
   {% for post in site.posts %}
 		{% if post.category != "music" %}
-    <li><span class="label success">New!</span> <span>{{ post.date | date_to_string }}</span> : <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date_to_string }}</span> : <a href="{{ post.url }}">{{ post.title }}</a></li>
 		{% endif %}
   {% endfor %}
 </ul>

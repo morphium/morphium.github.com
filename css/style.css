@@ -8,11 +8,12 @@ body {
 	padding-left: 30px;
 	margin-top: 0px; 
 	box-shadow: 0 0 5px #888;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
 }
 
 .row {
-	
-	height: 500px;
+	 
 }
 
 .tabs {
@@ -23,7 +24,12 @@ body {
 
 .tabs .active a{
 	background-color: #eee;
-	color: #000;
+	color: #000; 
+}
+
+.tabs .active a:hover{
+	background-color: #eee;
+	color: #000; 
 }
 
 .container {
