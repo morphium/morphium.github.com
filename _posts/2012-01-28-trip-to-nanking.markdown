@@ -20,9 +20,13 @@ when park was about to close.
 
 Second day we enjoyed a view of [Xuanwu Lake](http://en.wikipedia.org/wiki/Xuanwu_Lake). Besides, we had a chance 
 to see a crazy performance. It is hard to describe, so here is a video:
+
 ------
+
 <object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/YJwtk7fDqhA?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/YJwtk7fDqhA?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
 ------
+
 Also, the last night in Nanjing, we met some great people from UK in our hostel, which is located, by the way, near Confucius Temple.
 After playing some drinking games, we headed to a bar at Nanjing 1912 area. Our new friend demonstrated us her talent 
 of bargaining with a bar manager and we got really amazing deal. Later they gave us 6 more bottles of beer for free o_O.
