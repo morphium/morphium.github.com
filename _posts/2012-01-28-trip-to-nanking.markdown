@@ -6,6 +6,8 @@ title: Trip to Nanjing 2012
 Yesterday, Greg, my parents and I came back from amazing trip to the city of Nanjing.
 I personally enjoyed it very much, and I am pretty sure so did all my companions. 
 
+<img src="http://photos-3.dropbox.com/i/l/0ardosowaFN9gp74ZDMrEcofS08YkG3OK1U1qMrlvPw/47588428/1327838400/5af2d20/IMG_1971.JPG" height="380" width="260" />
+
 Just one hour and a half by train from Shanghai, and you are in absolutely different world,
 where people look at you as a stranger again. I mean a laowai. 
 
@@ -19,12 +21,9 @@ to see a crazy performance. It is hard to describe, so here is a video:
 
 <object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/YJwtk7fDqhA?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/YJwtk7fDqhA?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 ------
-Also, on the last night in Nanjing, we met some great people from UK in our hostel, which is located, by the way, near Confucius Temple.
+Also, the last night in Nanjing, we met some great people from UK in our hostel, which is located, by the way, near Confucius Temple.
 After playing some drinking games, we headed to a bar at Nanjing 1912 area. Our new friend demonstrated us her talent 
 of bargaining with a bar manager and we got really amazing deal. Later they gave us 6 more bottles of beer for free o_O.
 
 Well, and certainly, here are some photos from our trip:
 [Nanjing 2012 trip](http://www.dropbox.com/gallery/47588428/1/Nanjing?h=31cc2b)
-
- 
-
