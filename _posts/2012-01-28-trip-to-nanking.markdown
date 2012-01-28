@@ -6,7 +6,7 @@ title: Trip to Nanjing 2012
 Yesterday, Greg, my parents and I came back from amazing trip to the city of Nanjing.
 I personally enjoyed it very much, and I am pretty sure so did all my companions. 
 
-<img src="http://photos-3.dropbox.com/i/l/0ardosowaFN9gp74ZDMrEcofS08YkG3OK1U1qMrlvPw/47588428/1327838400/5af2d20/IMG_1971.JPG" height="380" width="260" />
+<img src="http://dl.dropbox.com/u/47588428/tronenko.net/Nanjing-1.JPG" height="480" width="360" />
 
 Just one hour and a half by train from Shanghai, and you are in absolutely different world,
 where people look at you as a stranger again. I mean a laowai. 
