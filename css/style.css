@@ -17,12 +17,17 @@ body {
 }
 
 .tabs {
-	padding-left: 150px;
-	margin-bottom: 0px;
-	border-color: #444;
+	padding-left: 50px;
+	margin-bottom: 0px; 
 	margin-left: auto;
 	margin-right: auto;
-	width: 1110px;
+	width: 950px;
+}
+
+#line {
+	border-top: 1px solid #444;
+	margin-top: -1px;
+	
 }
 
 .tabs .active a {
