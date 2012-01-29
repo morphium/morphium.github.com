@@ -6,10 +6,91 @@ section: music
 <h2>{{ page.title }}</h2>
 <h3><small>{{ page.date | date_to_string }}</small></h3>
 
+
+<script type="text/javascript">
+//<![CDATA[
+
+$(document).ready(function(){
+
+	// Local copy of jQuery selectors, for performance.
+	var	my_jPlayer = $("#jquery_jplayer"),
+		my_trackName = $("#jp_container .track-name"),
+		my_playState = $("#jp_container .play-state"),
+		my_extraPlayInfo = $("#jp_container .extra-play-info");
+
+	// Some options
+	var	opt_play_first = false, // If true, will attempt to auto-play the default track on page loads. No effect on mobile devices, like iOS.
+		opt_auto_play = true, // If true, when a track is selected, it will auto-play.
+		opt_text_playing = "Now playing", // Text when playing
+		opt_text_selected = "Not playing"; // Text when not playing
+
+	// A flag to capture the first track
+	var first_track = true;
+
+	// Change the time format
+	$.jPlayer.timeFormat.padMin = false;
+	$.jPlayer.timeFormat.padSec = false;
+	$.jPlayer.timeFormat.sepMin = " min ";
+	$.jPlayer.timeFormat.sepSec = " sec";
+
+	// Initialize the play state text
+	my_playState.text(opt_text_selected);
+
+	// Instance jPlayer
+	my_jPlayer.jPlayer({
+		ready: function () { 
+			my_jPlayer.jPlayer("setMedia", {
+				mp3: "{{ page.mp3_file_url }}"
+			});
+		},
+		timeupdate: function(event) {
+			my_extraPlayInfo.text(parseInt(event.jPlayer.status.currentPercentAbsolute, 10) + "%");
+		},
+		play: function(event) {
+			my_playState.text(opt_text_playing);
+		},
+		pause: function(event) {
+			my_playState.text(opt_text_selected);
+		},
+		ended: function(event) {
+			my_playState.text(opt_text_selected);
+		},
+		swfPath: "../js",
+		cssSelectorAncestor: "#jp_container",
+		supplied: "mp3",
+		wmode: "window"
+	});
+
+
+});
+//]]>
+</script>
+
+
 <br />
 
 {{ content }}
 
+<br/><br/>
+
+<div id="jquery_jplayer"></div> 
+<div id="jp_container" class="demo-container">
+	<p>
+		<span class="play-state"></span> :
+		<span class="extra-play-info"></span>
+		of <span class="jp-duration"></span>, which is
+		<span class="jp-current-time"></span>
+	</p>
+		<a class="jp-play" href="#">Play</a>
+		<a class="jp-pause" href="#">Pause</a> 
+		<a class="jp-stop" href="#">Stop</a>
+	<p>
+		Volume: 
+		<a class="jp-mute" href="#">Mute</a>
+		<a class="jp-unmute" href="#">Unmute</a>
+		<a class="jp-volume-bar" href="#">|&lt;----------&gt;|</a> 
+		<a class="jp-volume-max" href="#">Max</a>
+</div>
 <hr />
 <div id="disqus_thread"></div>
 <script type="text/javascript">
