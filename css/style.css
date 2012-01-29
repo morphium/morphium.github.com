@@ -20,6 +20,9 @@ body {
 	padding-left: 150px;
 	margin-bottom: 0px;
 	border-color: #444;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1110px;
 }
 
 .tabs .active a {
@@ -58,10 +61,7 @@ body {
 	opacity:1.0;
 }
 
-a {
+a, a:hover  {
 	color: #dd0000;
 }
-
-a:hover {
-	color: #dd0000;
-}
+ 
