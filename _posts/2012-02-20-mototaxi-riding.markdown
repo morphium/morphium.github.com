@@ -3,11 +3,11 @@ layout: blog
 title: Mototaxi Riding
 ---
 
-Some people say it is quite dangerous to trust them. When you agree to get on this kind of taxi, you kind of grant all your life to the person you never met before.
+Some people say it is quite dangerous to trust them. When you agree to get on this kind of taxi, you put your life in the hands of a person you've never met.
 
-Anyway, this kind of transpartation is very common, if not the most common, in the capital of Thailand, and also well spread in cities of China.
+Anyway, this kind of transportation is very common, if not the most common, in the capital of Thailand, and also well spread in cities of China.
 
-Here I prepared couple videos, which I took while riding motorcycle taxis in Shanghai and Bangkok, respectively. Both videos were taken in January of 2012.
+I prepared couple videos, which I took while riding motorcycle taxis in Shanghai and Bangkok, respectively. Both videos were taken in January, 2012.
 
 ---
 ###Shanghai
