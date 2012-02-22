@@ -68,7 +68,11 @@ body {
 	opacity:1.0;
 }
 
-a, a:hover  {
+a  {
 	color: #dd0000;
+}	
+a:hover { 
+	text-decoration: none; 
+    color: #990000; 
 }
  

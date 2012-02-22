@@ -26,6 +26,7 @@
 	<ul class="tabs">
 	  <li {% if page.section == "blog" %} class="active"{% endif %}><a href="/">Blog</a></li>
 	  <li {% if page.section == "music" %} class="active"{% endif %}><a href="/music">Music</a></li>
+	  <li {% if page.section == "travel" %} class="active"{% endif %}><a href="/travel">Travel</a></li>
 	
 	</ul>
   <div id="line"></div>
@@ -45,6 +46,23 @@
        scrolling="no" frameborder="0"
        style="border:none; width:450px; height:80px"></iframe>
 
+
+		<ul>
+		{% if page.next.url %}
+		<li>Next: <a href="{{page.next.url}}" title="{{page.next.title}}">{{page.next.title}}</a>			
+			{% if page.next.category == "music" %}
+				<a href="/music"><span class="music label">Music</span></a>
+			{% endif %}
+		</li>
+		{% endif %}
+		{% if page.previous.url %}
+		<li>Previous: <a href="{{page.previous.url}}" title="{{page.previous.title}}">{{page.previous.title}} {{post.next.category}}</a> 		
+			{% if page.previous.category == "music" %}
+				<a href="/music"><span class="music label">Music</span></a>
+			{% endif %}
+		</li>
+		{% endif %}
+		</ul>
       </div>
 	   
       <div class="span6">

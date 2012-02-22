@@ -17,8 +17,17 @@ ideas and impressions, if I have an inspiration.
 <h3>Blog Posts:</h3> 
 <ul>
   {% for post in site.posts %}
-		{% if post.category != "music" %}
-    <li><span>{{ post.date | date_to_string }}</span> : <a href="{{ post.url }}">{{ post.title }}</a></li>
-		{% endif %}
+    <li><span>{{ post.date | date_to_string }}</span> : <a href="{{ post.url }}">{{ post.title }}</a> 
+		{% if post.category == "music" %}
+			<a href="/music"><span class="music label">Music</span></a>
+		{% endif %} 
+	</li> 
   {% endfor %}
 </ul>
+
+
+<p>I'm currently enjoying my life in Shanghai, China. Originally I am from suburbs of Saint-Petersburg, Russia. 
+	Being not a native English-speaker, this Blog is also the way for me to improve my English skills, and if you found
+	some grammar mistakes or inaccuracies, you are very welcomed to tell me. Please leave comments.
+</p>
+<br>

@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Trip to Thailand 2012 Overview
+category: travel
 ---
 
 Yesterday, Feb 11, I came back from Bangkok. It was awesome vacation and the third visit of mine of the most beautiful country in the world.

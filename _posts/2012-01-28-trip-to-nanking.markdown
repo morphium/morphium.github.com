@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Trip to Nanjing 2012
+category: travel
 ---
 
 Yesterday, Greg, my parents and I came back from amazing trip to the city of Nanjing.

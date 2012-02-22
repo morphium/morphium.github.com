@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: My mom's birthday party in Bangkok
+category: travel
 ---
 
 Today I want to share a bunch of funny pics of my parents, friends and me.

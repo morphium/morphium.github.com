@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Mototaxi Riding
+category: travel
 ---
 
 Some people say it is quite dangerous to trust them. When you agree to get on this kind of taxi, you put your life in the hands of a person you've never met.

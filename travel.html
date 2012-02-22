@@ -1,0 +1,14 @@
+---
+layout: default 
+section: travel
+---
+
+<small>I love to travel too.</small> 
+<h3>My Traveling Post:</h3> 
+<ul>
+	{% for post in site.posts %}
+			{% if post.category == "travel" %}
+	  <li><span>{{ post.date | date_to_string }}</span> : <a href="{{ post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+	{% endfor %}
+</ul>
