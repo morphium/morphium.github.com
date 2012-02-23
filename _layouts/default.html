@@ -23,6 +23,22 @@
 	</script>
 </head>
 <body>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=348352448538441";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<script type="text/javascript">
+	  (function() {
+	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	    po.src = 'https://apis.google.com/js/plusone.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script>	
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 	<ul class="tabs">
 	  <li {% if page.section == "blog" %} class="active"{% endif %}><a href="/">Blog</a></li>
 	  <li {% if page.section == "music" %} class="active"{% endif %}><a href="/music">Music</a></li>
@@ -41,12 +57,7 @@
 
       {{ content }}
       
-      
-      <iframe src="https://www.facebook.com/plugins/like.php?href=http://tronenko.net{{ page.url }}"
-       scrolling="no" frameborder="0"
-       style="border:none; width:450px; height:80px"></iframe>
-
-
+        
 		<ul>
 		{% if page.next.url %}
 		<li>Next: <a href="{{page.next.url}}" title="{{page.next.title}}">{{page.next.title}}</a>			
@@ -66,20 +77,33 @@
       </div>
 	   
       <div class="span6">
-			  <div id="contacts">
-        <p></p>
+		  <div id="contacts">
+	        <p></p>
 
-        <h4>How to contact me:</h4>
+	        <h4>How to contact me:</h4>
 
-        <ul>
-          <li><a href="mailto:roman@tronenko.net">Email</a></li>
-          <li><a href="http://facebook.com/tronenko">Facebook</a></li>
-          <li><a href="http://twitter.com/morphium">Twitter</a></li>
-          <li><a href="http://github.com/morphium">GitHub</a></li>
-          <li><a href="http://stackoverflow.com/users/716477/morphium">StackOverflow</a></li>
-        </ul>
-	      </div>
+	        <ul>
+	          <li><a href="mailto:roman@tronenko.net">Email</a></li>
+	          <li><a href="http://facebook.com/tronenko">Facebook</a></li>
+	          <li><a href="http://twitter.com/morphium">Twitter</a></li>
+	          <li><a href="http://github.com/morphium">GitHub</a></li>
+	          <li><a href="http://stackoverflow.com/users/716477/morphium">StackOverflow</a></li>
+	        </ul>
+	      </div> 
       </div>
+		<div class="span6">
+			<div id="likes">
+				<div class="fb-like" data-send="false" data-layout="button_count" data-width="550" data-show-faces="true" data-font="lucida grande"></div>
+				<p></p>
+				<g:plusone size="medium"></g:plusone>
+				<p></p>
+				<a href="https://twitter.com/share" class="twitter-share-button" data-via="morphium" data-hashtags="tronenko">Tweet</a>
+				<p></p>
+				<a href="http://bufferapp.com/add" class="buffer-add-button" data-count="horizontal">Buffer</a><script type="text/javascript" src="http://static.bufferapp.com/js/button.js"></script>
+				<p></p>
+			</div>
+		</div>
+
     </div>
     
     <div class="row">
