@@ -117,7 +117,7 @@ p:hover {
 	color: black;
 }
 
-#likes { 
+#like_btns {  
 	position: fixed;
 	-webkit-transition: opacity 0.2s linear;
 	-moz-transition: opacity 0.2s linear;
@@ -133,7 +133,7 @@ p:hover {
 	margin-right: auto;
 }
 
-#likes:hover {
+#like_btns:hover {
 	opacity: 1;
 	filter:alpha(opacity=100); 
 	-moz-opacity: 1;

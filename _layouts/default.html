@@ -6,39 +6,50 @@
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/style.css" /> 
 
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-	<script type="text/javascript" src="/js/jquery.jplayer.min.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.jplayer.min.js"></script> 
 	<script type="text/javascript">
 
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-29387696-1']);
 	  _gaq.push(['_trackPageview']);
-
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-
+	 
+	
+	  $(function() {	   
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		 
+		 
+			$('#like_btns').hide();
+		 
+		$('#like_btns').delay(4000).fadeIn('slow'); 
+	});
 	</script>
 </head>
-<body>
-	<div id="fb-root"></div>
-	<script>(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=348352448538441";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
-	<script type="text/javascript">
-	  (function() {
-	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-	    po.src = 'https://apis.google.com/js/plusone.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-	  })();
+<body> 
+	<script type="text/javascript">	
+	
+
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+
+		  (function() {
+		    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		    po.src = 'https://apis.google.com/js/plusone.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })(); 
+
+		(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=348352448538441";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		
+		
 	</script>	
-	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	<div id="fb-root"></div>
 	<ul class="tabs">
 	  <li {% if page.section == "blog" %} class="active"{% endif %}><a href="/">Blog</a></li>
 	  <li {% if page.section == "music" %} class="active"{% endif %}><a href="/music">Music</a></li>
@@ -49,7 +60,7 @@
   <div id="main" class="container">
  
     <header>
-      <h1><a href="/"><img src="/images/logo.png" alt="Tronenko.net" /></a></h1>
+      <h1><a href="/"><img src="/images/logo.png" alt="Tronenko.net" id="logo_img"/></a></h1>
     </header>
 
     <div class="row">
@@ -91,8 +102,8 @@
 	        </ul>
 	      </div> 
       </div>
-		<div class="span6">
-			<div id="likes">
+		<div class="span6"> 
+			 <div id="like_btns">
 				<p></p>
 				<div class="fb-like" data-send="false" data-layout="button_count" data-width="550" data-show-faces="true" data-font="lucida grande"></div>
 				<p></p>
@@ -102,7 +113,7 @@
 				<p></p>
 				<a href="http://bufferapp.com/add" class="buffer-add-button" data-count="horizontal">Buffer</a><script type="text/javascript" src="http://static.bufferapp.com/js/button.js"></script>
 				<p></p>
-			</div>
+			</div>  
 		</div>
 
     </div>
