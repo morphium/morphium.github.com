@@ -3,7 +3,9 @@ layout: blog
 title: Shanghai Barcamp - 2012 March 3
 ---
 
-I am looking forward to visit [Shanghai Barcamp](http://www.techyizu.org/shanghai-barcamp-2012-march-3), that will take place on Saturday near Jing'an Temple.
+I am looking forward to visit [Shanghai Barcamp](http://www.techyizu.org/shanghai-barcamp-2012-march-3), that will take place this Saturday near Jing'an Temple.
+
+<a href="http://www.techyizu.org/shanghai-barcamp-2012-march-3" style="margin-left: 140px" target="_blank"><img src="http://www.williamhund.com/images/logos_barcamp_mar.png"/></a>
 
 My expectations for coming "un-conference" are higher than for the previous one. 
 Also, the location is much more easier for me to get to.
