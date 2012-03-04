@@ -3,7 +3,7 @@ layout: blog
 title: Russian presidential elections in Shanghai
 ---
 
-Today, [March 3, 2012](http://en.wikipedia.org/wiki/Russian_presidential_election,_2012) is the special day of my life. What is so special about it?
+Today, [March 4, 2012](http://en.wikipedia.org/wiki/Russian_presidential_election,_2012) is the special day of my life. What is so special about it?
 I went to vote, and it was the first time in my life. 
 
 So, how is it to vote abroad for Russian people? That was easy, actually. 
