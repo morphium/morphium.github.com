@@ -11,6 +11,8 @@ I took a lot of photos. Here you can see the best of them:
 
 <embed type="application/x-shockwave-flash" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" width="600" height="400" flashvars="host=picasaweb.google.com&captions=1&hl=ru&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F107078042288390309013%2Falbumid%2F5716039130501418321%3Falt%3Drss%26kind%3Dphoto%26hl%3Dru" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
 
+---
+
 In the morning, my friend [Alex](http://magazeta.com) and I accidentally met at metro station. Surprisingly, we took the same train. Shanghai - a small village, ain't it? Well, it is not absolutely so surprising in this case, since we both were heading toward the same place.
 
 "Un-conference" took place in a high building at 17th floor. After registration, we went inside to acquaint ourself with new location. There was no as much space as comparing to the [previous](http://mh.malstream.info/notes/176) Shanghai Barcamp location. Schedule was available both on whiteboards in the main hall and online, on their websites. 
@@ -27,6 +29,7 @@ At Barcamp, I had a chance to see many interesting devices in action (3d printer
 
 There was interesting speech about "The Lean Business Approach" given by French guy from Web Age Corp. Also, I attend less informative, but still interesting presentation about [Hadoop](http://en.wikipedia.org/wiki/Hadoop). 
 
+---
 Words are good, but to understand better the atmosphere of Barcamp, watch the video: 
 
 <object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/aM1zN07Mrts?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/aM1zN07Mrts?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
