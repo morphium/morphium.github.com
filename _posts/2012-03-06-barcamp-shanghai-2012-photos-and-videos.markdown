@@ -29,7 +29,7 @@ There was interesting speech about "The Lean Business Approach" given by French 
 
 Words are good, but to understand better the atmosphere of Barcamp, watch the video: 
 
-<iframe width="853" height="480" src="http://www.youtube.com/embed/aM1zN07Mrts" frameborder="0" allowfullscreen></iframe>
+<object width="853" height="480"><param name="movie" value="http://www.youtube.com/v/aM1zN07Mrts?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/aM1zN07Mrts?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="853" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 ---
 
 I definitely am happy that I have attended the event. Now I am thinking I might prepare something interesting myself for the next Barcamp. I mean I can try to give a presentation too.
