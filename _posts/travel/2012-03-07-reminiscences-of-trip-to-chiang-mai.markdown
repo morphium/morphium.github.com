@@ -15,10 +15,9 @@ After we found our hostel and took a shower, we had to go to pharmacy to buy som
 
 ###Performance with flags
 <object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/TJ0q49IRz5I?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/TJ0q49IRz5I?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
----
 
 We were so lucky! We did not even know about this event, and we arrived right before it started. Many amazing photos were taken:
----
+
 <embed type="application/x-shockwave-flash" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" width="600" height="400" flashvars="host=picasaweb.google.com&captions=1&hl=ru&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F107078042288390309013%2Falbumid%2F5714437714665773745%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCNLk3bnmx9KgdA%26hl%3Dru" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
 ---
 
