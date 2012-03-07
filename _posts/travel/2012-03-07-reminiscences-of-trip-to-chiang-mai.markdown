@@ -35,7 +35,7 @@ Our second destination was a beautiful mountain place with a spring. Thai minori
 
 The third place was this calm and shiny temple, at the top of the mountain. I liked it much better than Grand Palace in Bangkok. Interesting fact, that my t-shirt has the place I am at on it.
 
-<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/o7gVoWEfbwKnXaheO-5BTM3OBdACi7NYOYD8fv1jfWk?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-EYypQAYqhYM/T03-qTk1YdI/AAAAAAAAA7A/dGR6UF9PZpA/s144/IMG_2994.JPG" height="640" width="480" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right"><a href="https://picasaweb.google.com/107078042288390309013/ChiangMaiThailandFeb2012?authuser=0&authkey=Gv1sRgCNLk3bnmx9KgdA&feat=embedwebsite">Chiang Mai, Thailand - Feb 2012</a></td></tr></table>
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/o7gVoWEfbwKnXaheO-5BTM3OBdACi7NYOYD8fv1jfWk?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-EYypQAYqhYM/T03-qTk1YdI/AAAAAAAAA7A/dGR6UF9PZpA/s640/IMG_2994.JPG" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Альбом: <a href="https://picasaweb.google.com/lh/sredir?uname=107078042288390309013&target=ALBUM&id=5714437714665773745&feat=embedwebsite"></a></td></tr></table>
 ---
 In the evening we went to Sunday Market street, and later Wanwan left. But she almost missed her bus! 
 In the night I went to the Roof-top bar and met some football fans from Manchester. Later we went to so called Reggae bar.
@@ -43,7 +43,7 @@ In the night I went to the Roof-top bar and met some football fans from Manchest
 Next day I walked around the city, visited few temples, including the most famous in the center - Wat Phrasingh. There are so many of them in Chiang Mai. 
 Also, couple hours before I left I met Ananda again. He told me, that he already found an apartment to stay and now was looking for a job. Probably, an English teacher.
 We had some street food together and then I left to pack my backpack. 
-<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/0dqe0nJcnGdP5Cpyd0jnTc3OBdACi7NYOYD8fv1jfWk?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-RMFFdXvhvog/T04BDiWIO2I/AAAAAAAAA8A/cnxtoXXMCcU/s400/IMG_3013.JPG" height="640" width="480" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right"><a href="https://picasaweb.google.com/107078042288390309013/ChiangMaiThailandFeb2012?authuser=0&authkey=Gv1sRgCNLk3bnmx9KgdA&feat=embedwebsite">Chiang Mai, Thailand - Feb 2012</a></td></tr></table>
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/0dqe0nJcnGdP5Cpyd0jnTc3OBdACi7NYOYD8fv1jfWk?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-RMFFdXvhvog/T04BDiWIO2I/AAAAAAAAA8A/cnxtoXXMCcU/s640/IMG_3013.JPG" height="640" width="480" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right"><a href="https://picasaweb.google.com/107078042288390309013/ChiangMaiThailandFeb2012?authuser=0&authkey=Gv1sRgCNLk3bnmx9KgdA&feat=embedwebsite">Chiang Mai, Thailand - Feb 2012</a></td></tr></table>
 ---
 I did enjoy our visit to Chiang Mai very very much, as well as to travel with Wan. 
 
