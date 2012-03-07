@@ -35,7 +35,7 @@ Our second destination was a beautiful mountain place with a spring. Thai minori
 
 The third place was this calm and shiny temple, at the top of the mountain. I liked it much better than Grand Palace in Bangkok. Interesting fact, that my t-shirt has the place I am at on it.
 
-<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/o7gVoWEfbwKnXaheO-5BTM3OBdACi7NYOYD8fv1jfWk?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-EYypQAYqhYM/T03-qTk1YdI/AAAAAAAAA7A/dGR6UF9PZpA/s640/IMG_2994.JPG" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">Альбом: <a href="https://picasaweb.google.com/lh/sredir?uname=107078042288390309013&target=ALBUM&id=5714437714665773745&feat=embedwebsite"></a></td></tr></table>
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/o7gVoWEfbwKnXaheO-5BTM3OBdACi7NYOYD8fv1jfWk?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-EYypQAYqhYM/T03-qTk1YdI/AAAAAAAAA7A/dGR6UF9PZpA/s640/IMG_2994.JPG" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right"></td></tr></table>
 ---
 In the evening we went to Sunday Market street, and later Wanwan left. But she almost missed her bus! 
 In the night I went to the Roof-top bar and met some football fans from Manchester. Later we went to so called Reggae bar.
