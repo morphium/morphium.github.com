@@ -98,6 +98,7 @@ p {
 	-moz-transition: color 0.3s linear;
 	transition: color 0.3s linear;
 	color: #555;
+	text-indent: 1.5em;
 }
 
 p:hover {
