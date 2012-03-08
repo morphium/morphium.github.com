@@ -2,14 +2,70 @@
 layout: default
 section: music
 ---
+<script type="text/javascript">
+//<![CDATA[
 
+var isPlaying = false;
+
+$(document).ready(function(){
+
+	// Local copy of jQuery selectors, for performance.
+	var	my_jPlayer = $("#jquery_jplayer");
+ 
+	function play(mp3file){
+		my_jPlayer.jPlayer("setMedia", {
+			mp3: mp3file
+		}); 
+		my_jPlayer.jPlayer("play");		
+	}
+
+	my_jPlayer.jPlayer({
+		ready: function () {  
+		},
+		timeupdate: function(event) { 
+		},
+		play: function(event) { 
+		},
+		pause: function(event) { 
+		},
+		ended: function(event) { 
+			$(".play-btn").html("[play]");
+		},
+		swfPath: "../js",
+		cssSelectorAncestor: "#jp_container",
+		supplied: "mp3",
+		wmode: "window"
+	});	
+	// Instance jPlayer
+	$(".play-btn").click(function(){
+		var playBtn = $(this);
+		var mp3file = $(this).data("mp3");
+		if (isPlaying && (playBtn.html() == "[stop]")) { 
+			my_jPlayer.jPlayer("stop");  
+			playBtn.html("[play]");
+			isPlaying = false; 
+		} else { 
+			play(mp3file);
+			$(".play-btn").html("[play]");
+			playBtn.html("[stop]");
+			isPlaying = true;
+		}	 
+	});
+
+
+
+});
+//]]>
+</script>
 <small>Here you can find some fruits of my music inspirations.</small> 
 <h3>My Music:</h3> 
 <p></p>
+
+<div id="jquery_jplayer"></div>
 <ul>
   {% for post in site.posts %}
 		{% if post.category == "music" %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> <span>({{ post.date | date_to_string }})</span></li>
+    <li><a class="play-btn label" data-mp3="{{ post.mp3_file_url }}">[play]</a><a href="{{ post.url }}"> {{ post.title }}</a> </li>
 		{% endif %}
   {% endfor %}
 </ul>
