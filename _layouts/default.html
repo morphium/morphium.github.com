@@ -25,6 +25,9 @@
 		$('#like_btns').delay(4000).fadeIn('slow'); 
 
 		$('a').each(function() {
+			if ($(this).data("mp3")){
+				return;
+			}
 		   var a = new RegExp('/' + window.location.host + '/');
 		   if(!a.test(this.href)) {
 		       $(this).click(function(event) {
