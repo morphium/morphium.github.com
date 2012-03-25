@@ -64,11 +64,11 @@
 				return vars;
 			}
 			});			
-			var name = $.getUrlVars()["name"];
+			var name = $.getUrlVars()["n"];
 			var encode = $.getUrlVars()["encode"];
 			if (encode != null) {
 				name = Base64.encode(name);
-				window.location.href = window.location.href.replace(/[?]+.*/,"") + "?name=" + name;
+				window.location.href = window.location.href.replace(/[?]+.*/,"") + "?n=" + name;
 			}
 			name = Base64.decode(name);
 			if (name == null){
