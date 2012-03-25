@@ -14,6 +14,7 @@
 	<script src="/js/jquery-1.7.1.min.js"></script> 
 	<script src="/js/jquery.lettering-0.6.1.min.js"></script>
 	<script src="/js/jquery.scrollorama.js"></script>
+	<script src="/js/base64.js"></script>
 </head>
 <body> 
 	<div id="fb-root"></div>
@@ -34,9 +35,9 @@
 		</div>
 		
   	<div class="scrollblock"  > 
-			<h1 id="hello1">Hello, Giselle</h3> 
-			<h1 id="hello2">你好，吳芷榕</h3>
-			<h1 id="hello3">Привет, Жизель!</h3>
+			<h1 id="hello1">Hello, </h3> 
+			<h1 id="hello2">你好，</h3>
+			<h1 id="hello3">Привет, </h3>
 		</div>
 		
 		
@@ -44,15 +45,44 @@
 			<h3 id="good-night">I want to wish you a good night</h3>
 				<h3 id="sweet-dreams">and sweet dreams</h3>
 		</div>
+		 
 		
-  	<div class="scrollblock"  > 
-			<h3 id="roman">Your Roman</h3> 
-		</div>		 
+  	<div class="scrollblock"  >  
+			<h3 id="roman">Your Roman</h3>
+		</div>
 	</div>
 	
 
 	<script>
 		$(document).ready(function() {
+			$.extend({
+				getUrlVars: function() {
+				var vars = {};
+				var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) { 
+					vars[key] = value; 
+					});
+				return vars;
+			}
+			});			
+			var name = $.getUrlVars()["name"];
+			var encode = $.getUrlVars()["encode"];
+			if (encode != null) {
+				name = Base64.encode(name);
+				window.location.href = window.location.href.replace(/[?]+.*/,"") + "?name=" + name;
+			}
+			name = Base64.decode(name);
+			if (name == null){
+				name = "Friend";
+			}
+			
+			$("#hello1").append(name);
+			$("#hello2").append(name);
+			$("#hello3").append(name + "!");
+			
+			
+			$('#good-night').lettering();
+			$('#sweet-dreams').lettering();
+			
 			
 			// initialize the plugin, pass in the class selector for the sections of content (blocks)
 			var scrollorama = $.scrollorama({ blocks:'.scrollblock' });
@@ -60,15 +90,32 @@
 			// // animate some examples
 			// scrollorama.animate('#unpin',{ duration:500, property:'padding-top', start:400, pin:true });
 			scrollorama.animate('#scroll-down',{ delay: 0, duration: 300, property:'opacity', end:0 });
-			//scrollorama.animate('#hello1',{ delay: 200, duration: 600, property:'opacity', start:0, end:50 });
+			
 			scrollorama.animate('#hello1',{ delay: 200, duration: 600, property:'left', start:-400, end:400 });
 			scrollorama.animate('#hello1',{ delay: 300, duration: 800, property:'opacity', start:0, end:1 });
-			scrollorama.animate('#hello2',{ delay: 400, duration: 600, property:'left', start:-400, end:400 });
+			scrollorama.animate('#hello1',{ delay: 350, duration: 800, property:'padding-top', end:0, pin:true });
+			
+			scrollorama.animate('#hello2',{ delay: 250, duration: 600, property:'left', start:-400, end:400 });
 			scrollorama.animate('#hello2',{ delay: 300, duration: 800, property:'opacity', start:0, end:1 });
-			scrollorama.animate('#hello3',{ delay: 500, duration: 600, property:'left', start:-400, end:400 });
+			scrollorama.animate('#hello2',{ delay: 400, duration: 800, property:'padding-top', end:0, pin:true }); 
+			
+			scrollorama.animate('#hello3',{ delay: 300, duration: 600, property:'left', start:-400, end:400 });
 			scrollorama.animate('#hello3',{ delay: 300, duration: 800, property:'opacity', start:0, end:1 });
+			scrollorama.animate('#hello3',{ delay: 450, duration: 800, property:'padding-top', end:0, pin:true });
+			
+			
 			scrollorama.animate('#good-night',{ delay: 700, duration: 700, property:'left', start:800, end:0 });
+			$('#good-night span').each(function() {
+				scrollorama.animate($(this),{ delay: 960, duration: 800, property:'top', end: Math.random()*120-180 });
+				scrollorama.animate($(this),{ delay: 970, duration: 900, property:'rotate', start:0, end:Math.random()*720-360 });
+			});
 			scrollorama.animate('#sweet-dreams',{ delay: 800, duration: 700, property:'left', start:800, end:200 });
+			$('#sweet-dreams span').each(function() {
+				scrollorama.animate($(this),{ delay: 900, duration: 1000, property:'top', end: Math.random()*120-180 });
+				scrollorama.animate($(this),{ delay: 900, duration: 1000, property:'rotate', start:0, end:Math.random()*720-360 });
+			});
+			
+			
 			scrollorama.animate('#roman',{ delay: 500, duration: 200, property:'opacity', start:0, end:1 });
 			// scrollorama.animate('#fly-in',{ delay: 400, duration: 300, property:'left', start:-1400, end:0 });
 			// scrollorama.animate('#rotate-in',{ duration: 800, property:'rotate', start:720 });
