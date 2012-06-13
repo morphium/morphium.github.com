@@ -1,14 +1,15 @@
 ---
 layout: music
-title: Saturday 14th
+title: Psychodelic 3
 category: music
-mp3_file_url: http://tronenko.net/media/delirium-saturday-14th.mp3
+mp3_file_url: http://tronenko.net/media/delirium-psychodelic-3.mp3
 ---
 
  
-This music was composed by me after a big CPod party on Friday 13<sup>th</sup>, that is it was a morning of Saturday 14<sup>th</sup>.
-Here is a reason where a name of track came from. Saturday 14<sup>th</sup> - a calm and a quite day. The track is slow. I call it "A Hangover Music".
+After a long pause, I decided to recall what is guitar and how we create music these days.
+So last night I tried to compose this masterpiece, which is rather close to cacophony, one can say.
 
-I am learning to use my new gear, which Michael suggested me to buy and Greg brought for me from USA.
-I just spent few hours of Saturday's morning. May be the song is not mastered good enough, but I like it as it is now.
-Hope you guys like it too. :)
+I am glad to present to you : Psychodelic 3.
+
+Two previous parts I think I will upload later.
+They all called like this, because they are far from harmonic understanding of music.
