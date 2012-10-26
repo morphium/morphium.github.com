@@ -12,7 +12,7 @@ Originally, the article is in Russian, targeted at the Russian reader, so I deci
 
 	There is a "national inferiority" complex deep inside us.
 
-	There is a special form of patriotism being cultivated in Russia now, based only on the hatred of others. Even if we talk about our merits, then, as a general rule, we say it like this: “our ancestors f**ked them all”, or “our missiles can f**king blow them up!”. This is an exact behavior of an evil nonentity, who feels with his guts the superiority of the people around. 
+	There is a special form of patriotism being cultivated in Russia now, based only on the hatred of others. Even if we talk about our merits, then, as a general rule, we say it like this: “our ancestors f**ked them all”, or “our missiles can f**king blow them up!”. This is the exact behavior of an evil nonentity, who feels deep down the superiority of the people around him. 
 
 	Our tolerance to any abuse of the authorities over the people can be explained very easy: “when was it different?” and “can it be different?”.
 
