@@ -10,9 +10,9 @@ Originally, the article is in Russian, targeted at the Russian reader, so I deci
 
 	Russian citizens are ashamed of their country and despise it. (Almost every one of us thinks: “Yeah, a country of fools, indeed”). And those who don’t despise it are idiots or scoundrels. However, the scoundrels despise it too, but hide it thoroughly. Don’t you agree? Try to remember, honestly, for yourself, with which emotions did you evaluate the events which are taking place in our country? For example, “only Russians could be treated like this”, “not surprising at all for our country”, “only our government can treat their citizens like this”, “in this case in the USA they would… ”. Can you remember at least a single evaluation of this kind?
 
-	Deep inside us there is a complex of “national inferiority”.
+	There is a "national inferiority" complex deep inside us.
 
-	There is a special form of patriotism, which is cultivating in Russia now, based only on hatred to others. Even if we talk about our merits, then, as a general rule, we say it like this: “our ancestors f**ked them all”, or “our missiles can f**king blow them up!”. This is an exact behavior of an evil nonentity, who feels with his guts the superiority of the people around. 
+	There is a special form of patriotism being cultivated in Russia now, based only on the hatred of others. Even if we talk about our merits, then, as a general rule, we say it like this: “our ancestors f**ked them all”, or “our missiles can f**king blow them up!”. This is an exact behavior of an evil nonentity, who feels with his guts the superiority of the people around. 
 
 	Our tolerance to any abuse of the authorities over the people can be explained very easy: “when was it different?” and “can it be different?”.
 
