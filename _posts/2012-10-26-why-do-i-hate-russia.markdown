@@ -24,15 +24,15 @@ Originally, the article is in Russian, targeted at the Russian reader, so I deci
 
 	We, unlike the inhabitants of the developed world, don't consider officials to be our workers; on the contrary, for us they are the ones who always create more and more problems for us from a desire to extract bribes or just to play a prank. What's most surprising is our officials are actually trying hard to conform to such an image, as if under the influence of the public stereotype.
 
-	It is not us, who are trying to seem to be “The Great Power” in castoffs. We are laughing at those attempts – since the childhood, from the anecdotes we made ourselves, we know, that we are born in the pile of manure; just “It is our motherland, my son”. 
+	It is not us who are trying to be "The Great Power" of Russia from our lowly position. We laugh at the very idea of it. We know from our childhood stories that we are born in a pile of manure. But, "It is our motherland, my son."
+	
+	We are passionate about our “little homeland” and our friends, but we despise our country and its people on the whole. Sometimes, we even gloat about the failures of our country at the international level – in those situations we treat our country as “the government”,  which in turn we perceive as our worst enemy. 
 
-	We are passionate about our “little homeland” and friends, but we despise our country and the people on the whole. Sometimes, we even gloat about the failures of our country at the international level – in those situations we treat our country as “the government”,  which in turn we perceive as our superior enemy. 
+	In certain situations, from being in the army to the immigration, the representatives of any nation try to help their tribesmen. But Russians are not like this. They would rather pretend to “nicht verstehen”, rather than get involved in the problems of their fellow countryman.
 
-	In extreme conditions, from the army to the emigration, representative of any nation tries to help his or her tribesmen. But Russians are not like this. They would rather pretend to “nicht verstehen”, rather than get involved in the problems of his or her fellow countryman.
+	On the trains heading abroad we see Russians as the most undesirable companions. We cannot even imagine more pompous, cad and stupid people. It seems like these are the most important national traits, which we see in our countrymen and in ourselves.
 
-	On the trains heading abroad we see Russians as the most undesirable companions. We cannot even imagine more pompous, cad and stupid people. Seems like it is the most important national traits, which we can see in our countrymen. And in us ourselves. 
-
-	I don’t know whose fault it is. Why are we like this? Bloody tsarism, Tatar-Mongols, the Bolsheviks or someone else? I don’t analyze, I am as a chukchee – I sing what I see. I just understand, that it is not the place and people, where and with whom I would like to live.  
+	I don’t know whose fault it is. Why are we like this? Bloody tsarism, Tatar-Mongols, the Bolsheviks or someone else? I don’t analyze, I am like a [chukchi](http://en.wikipedia.org/wiki/Chukchi_people) – I sing what I see. I just understand, that it is not the place and people, where and with whom I would like to live.  
 
 ---
 
