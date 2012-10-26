@@ -3,6 +3,8 @@ layout: blog
 title: Why do I, being Russian, hate Russia?
 ---
 
+![Engish leanrs you](/images/russian-english.jpeg)
+
 Today I found one very interesting article online which attracted me. I think it is rather exaggerated, but still I do agree with many aspects of it.
 Originally, the article is in Russian, targeted at the Russian reader, so I decided to translate it into English:
 
@@ -24,7 +26,7 @@ Originally, the article is in Russian, targeted at the Russian reader, so I deci
 
 	We, unlike the inhabitants of the developed world, don't consider officials to be our workers; on the contrary, for us they are the ones who always create more and more problems for us from a desire to extract bribes or just to play a prank. What's most surprising is our officials are actually trying hard to conform to such an image, as if under the influence of the public stereotype.
 
-	It is not us who are trying to be "The Great Power" of Russia from our lowly position. We laugh at the very idea of it. We know from our childhood stories that we are born in a pile of manure. But, "It is our motherland, my son."
+	It is not us who are trying to be "The Great Power" of Russia from our lowly position. We laugh at the very idea of it. We know from our childhood stories that we are "born in a pile of manure". But, "It is our motherland, my son."
 	
 	We are passionate about our “little homeland” and our friends, but we despise our country and its people on the whole. Sometimes, we even gloat about the failures of our country at the international level – in those situations we treat our country as “the government”,  which in turn we perceive as our worst enemy. 
 
