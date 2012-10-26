@@ -37,4 +37,4 @@ Originally, article is in Russian, targeted at Russian reader, so I decided to t
 
 ---
 
-You can find original article [http://beon.ru/news-politics-society/8331-746-pochemu-ja-russkii-nenavizhu-rossiju-read.shtml](here). 
+You can find original article [here](http://beon.ru/news-politics-society/8331-746-pochemu-ja-russkii-nenavizhu-rossiju-read.shtml). 
