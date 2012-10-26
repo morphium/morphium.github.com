@@ -3,8 +3,6 @@ layout: blog
 title: Why do I, being Russian, hate Russia?
 ---
 
-![Engish leanrs you](/images/russian-english.jpeg)
-
 Today I found one very interesting article online which attracted me. I think it is rather exaggerated, but still I do agree with many aspects of it.
 Originally, the article is in Russian, targeted at the Russian reader, so I decided to translate it into English:
 
