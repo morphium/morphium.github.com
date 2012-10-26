@@ -143,3 +143,7 @@ p:hover {
 .label{
 	cursor: default;
 }
+
+code {
+	background-color: transparent;
+}
