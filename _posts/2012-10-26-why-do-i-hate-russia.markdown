@@ -8,7 +8,7 @@ Originally, the article is in Russian, targeted at the Russian reader, so I deci
 
 	**Why do I, being Russian, hate Russia?**
 
-	Russian citizens are ashamed of their country and despise it. (Almost every one of us thinks: “Yeah, a country of fools, indeed”). And those who don’t despise it are idiots or scoundrels. However, the last ones despise it too, but hide it thoroughly. Don’t you agree? Try to remember, honestly, for yourself with which emotions did you evaluate any events which take place in our country? For example, “only Russians could be treated like this”, “not surprising at all for our country”, “only our government can treat their citizens like this”, “in this case in USA they would… ”. Can you remember at least a single evaluation of a kind?
+	Russian citizens are ashamed of their country and despise it. (Almost every one of us thinks: “Yeah, a country of fools, indeed”). And those who don’t despise it are idiots or scoundrels. However, those scoundrels despise it too, but hide it thoroughly. Don’t you agree? Try to remember, honestly, for yourself with which emotions did you evaluate any events which take place in our country? For example, “only Russians could be treated like this”, “not surprising at all for our country”, “only our government can treat their citizens like this”, “in this case in USA they would… ”. Can you remember at least a single evaluation of a kind?
 
 	Deep inside us there is a complex of “national inferiority”.
 
