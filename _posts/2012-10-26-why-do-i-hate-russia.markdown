@@ -32,7 +32,7 @@ Originally, the article is in Russian, targeted at the Russian reader, so I deci
 
 	On the trains heading abroad we see Russians as the most undesirable companions. We cannot even imagine more pompous, cad and stupid people. It seems like these are the most important national traits, which we see in our countrymen and in ourselves.
 
-	I don’t know whose fault it is. Why are we like this? Bloody tsarism, Tatar-Mongols, the Bolsheviks or someone else? I don’t analyze, I am like a [chukchi](http://en.wikipedia.org/wiki/Chukchi_people) – I sing what I see. I just understand, that it is not the place and people, where and with whom I would like to live.  
+	I don’t know whose fault it is. Why are we like this? Bloody tsarism, Tatar-Mongols, the Bolsheviks or someone else? I don’t analyze, I am like a chukchi – I sing what I see. I just understand, that it is not the place and the people, where and with whom I would like to live.  
 
 ---
 
