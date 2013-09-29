@@ -1,0 +1,74 @@
+body {
+	background-color:#e2e2e2;
+}
+
+.scrollblock {
+	position: relative;
+	margin: 0;
+	width: 100%;
+	height: 600px;
+}
+
+h3 {
+	font-size: 40px;
+	font-weight: normal;
+	margin: 0;
+	color: #D92B00;
+	text-shadow: 0 2px 1px #000;
+	font-family: 'Bowlby One SC',"Arial Black",Gadget,sans-serif;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: normal;
+	margin: 0;
+	color: #D92B00;
+	text-shadow: 0 2px 1px #000;
+	font-family: 'Bowlby One SC',"Arial Black",Gadget,sans-serif;
+	text-transform: uppercase;
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: normal;
+	margin: 0;
+	color: #D92B00;
+	text-shadow: 0 2px 1px #000;
+	font-family: 'Bowlby One SC',"Arial Black",Gadget,sans-serif;
+	text-transform: uppercase;
+}
+.scrollblock h3 {
+	padding-top: 300px;
+}
+
+.scrollblock h1 {
+	padding-top: 200px;
+}
+
+
+#hello1 {
+	color: white;
+}
+
+#hello2 {
+	color: blue;
+}
+
+#hello3 {
+	color: red;
+}
+
+#good-night {
+	color: #333;
+	padding-top:700px;
+}
+#sweet-dreams {
+	padding-top:10px;
+}
+
+
+#roman {
+	color: red;
+	padding-top:450px;
+}
