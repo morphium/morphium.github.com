@@ -1,7 +1,6 @@
 ---
 layout: blog
-title: La unua artikolo en Eo
-lang: eo
+title: La unua artikolo en Eo 
 ---
 
 Hodiaŭ mi verkos ion unue en la internacia lingvo. Mi havas kelkajn kialojn por fari tion, kaj ĉefe ĉar hieraŭ mi partoprenis en "La 3-a Esperanto-Forumo de Jiangsu, Zhejiang kaj Shanghai 2013". La 28-a de septembro estis la unua tago en mia vivo, kiam mi samtempe povis vidi tiun grandan kvanton da Esperantistoj en unu loko.
