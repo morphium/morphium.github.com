@@ -18,4 +18,4 @@ Jen mi koniĝis Saed-on, kiun mi trovis ĉe la forumo en la urbo Changzhou. Li e
 
 Mi kordankas Marveturanton por voki min. 
 
-(Ĉi tie)[https://www.dropbox.com/sh/bi5x3zdoa1axsga/vemDNG4vAL] vi povas vidi iom da fotoj, kiujn mi fotis.
+[Ĉi tie](https://www.dropbox.com/sh/bi5x3zdoa1axsga/vemDNG4vAL) vi povas vidi iom da fotoj, kiujn mi fotis.
