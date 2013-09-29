@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title> Tronenko.net </title>
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/style.css" /> 
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.jplayer.min.js"></script> 
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-29387696-1']);
+	  _gaq.push(['_trackPageview']);
+	 
+	
+	  $(function() {	   
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		 
+		$('#like_btns').hide();
+		 
+		$('#like_btns').delay(4000).fadeIn('slow'); 
+
+		$('a').each(function() {
+			if ($(this).data("mp3")){
+				return;
+			}
+		   var a = new RegExp('/' + window.location.host + '/');
+		   if(!a.test(this.href)) {
+		       $(this).click(function(event) {
+		           event.preventDefault();
+		           event.stopPropagation();
+		           window.open(this.href, '_blank');
+		       });
+		   }
+		});
+	});
+	</script>
+</head>
+<body> 
+	<script type="text/javascript">	
+	
+
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+
+		  (function() {
+		    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		    po.src = 'https://apis.google.com/js/plusone.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })(); 
+
+		(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=348352448538441";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		
+		
+	</script>	
+	<div id="fb-root"></div>
+	<ul class="tabs">
+	  <li  class="active"><a href="/">Blog</a></li>
+	  <li ><a href="/music">Music</a></li>
+	  <li ><a href="/travel">Travel</a></li>
+	
+	</ul>
+  <div id="line"></div>
+  <div id="main" class="container">
+ 
+    <header>
+      <h1><a href="/"><img src="/images/logo.png" alt="Tronenko.net" id="logo_img"/></a></h1>
+    </header>
+
+    <div class="row">
+      <div class="span10">
+
+      <h2>Hi all!</h2>
+
+<br />
+
+<p>My name is Roman Tronenko and you are visiting my blog.</p>
+<p>
+I write rather infrequently, but I will try to share my thoughts,<br/>
+ideas and impressions... if I get inspired.
+</p>
+
+<hr /> 
+<h3>Blog Posts:</h3> 
+<ul>
+  
+    <li><span>29 Sep 2013</span> : <a href="/2013/09/29/la-unua-artikolo-en-eo-kaj-eo-forumo/">La unua artikolo en Eo</a> 
+		 
+	</li> 
+  
+    <li><span>17 Mar 2013</span> : <a href="/2013/03/17/fat-loss-rails-tim-ferris/">Fat-loss, Rails and Tim Ferriss</a> 
+		 
+	</li> 
+  
+    <li><span>01 Mar 2013</span> : <a href="/2013/03/01/where-is-my-inspiration/">Where is my inspiration?</a> 
+		 
+	</li> 
+  
+    <li><span>07 Nov 2012</span> : <a href="/2012/11/07/crazy-wednesday-flashing-galaxy-s3/">Сумасшедшая Среда - 7 Ноября - Galaxy S3</a> 
+		 
+	</li> 
+  
+    <li><span>26 Oct 2012</span> : <a href="/2012/10/26/why-do-i-hate-russia/">Why do I, being Russian, hate Russia?</a> 
+		 
+	</li> 
+  
+    <li><span>12 Jun 2012</span> : <a href="/music/2012/06/12/psychodelic-3/">Psychodelic 3</a> 
+		
+			<a href="/music"><span class="music label">Music</span></a>
+		 
+	</li> 
+  
+    <li><span>31 Mar 2012</span> : <a href="/2012/03/31/MongoDB-Shanghai-Conf/">MongoDB Conf in Shanghai</a> 
+		 
+	</li> 
+  
+    <li><span>07 Mar 2012</span> : <a href="/travel/2012/03/07/reminiscences-of-trip-to-chiang-mai/">Reminiscences of a Trip to Chiang Mai</a> 
+		 
+	</li> 
+  
+    <li><span>07 Mar 2012</span> : <a href="/2012/03/07/chinesepod-tablet-app-promo-video/">Promo Video for ChinesePod Tablet App</a> 
+		 
+	</li> 
+  
+    <li><span>06 Mar 2012</span> : <a href="/2012/03/06/barcamp-shanghai-2012-photos-and-videos/">I attended Barcamp 2012 in Shanghai</a> 
+		 
+	</li> 
+  
+    <li><span>04 Mar 2012</span> : <a href="/2012/03/04/russian-presidential-election-in-shanghai/">Russian presidential elections in Shanghai</a> 
+		 
+	</li> 
+  
+    <li><span>27 Feb 2012</span> : <a href="/2012/02/27/plans-to-visit-barcamp-sh-2012/">Shanghai Barcamp - 2012 March 3</a> 
+		 
+	</li> 
+  
+    <li><span>20 Feb 2012</span> : <a href="/travel/2012/02/20/mototaxi-riding/">Mototaxi Riding</a> 
+		 
+	</li> 
+  
+    <li><span>17 Feb 2012</span> : <a href="/travel/2012/02/17/moms-birthday-in-bangkok/">My mom's birthday party in Bangkok</a> 
+		 
+	</li> 
+  
+    <li><span>12 Feb 2012</span> : <a href="/travel/2012/02/12/thailand-2012-overview/">Trip to Thailand 2012 Overview</a> 
+		 
+	</li> 
+  
+    <li><span>29 Jan 2012</span> : <a href="/music/2012/01/29/saturday-14th/">Saturday 14th</a> 
+		
+			<a href="/music"><span class="music label">Music</span></a>
+		 
+	</li> 
+  
+    <li><span>29 Jan 2012</span> : <a href="/2012/01/29/chinese-new-year-2012-celebration-in-shanghai/">Chinese New Year 2012 Fireworks in Shanghai</a> 
+		 
+	</li> 
+  
+    <li><span>28 Jan 2012</span> : <a href="/travel/2012/01/28/trip-to-nanking/">Trip to Nanjing 2012</a> 
+		 
+	</li> 
+  
+    <li><span>25 Jan 2012</span> : <a href="/music/2012/01/25/eyes-light/">Eye's light</a> 
+		
+			<a href="/music"><span class="music label">Music</span></a>
+		 
+	</li> 
+  
+    <li><span>20 Jan 2012</span> : <a href="/2012/01/20/cpod-android-tablet-app/">CPod Android Tablet/GoogleTV App Released</a> 
+		 
+	</li> 
+  
+</ul>
+
+
+<p>I'm currently enjoying life in Shanghai, China. Originally I am from the suburbs of Saint-Petersburg, Russia. 
+	As I am not a native English-speaker, this blog is also a way for me to improve my English skills. So, if you find
+	some grammar mistakes or inaccuracies, you are more than welcome to tell me. Please leave comments.
+</p>
+<br>
+      
+        
+		<ul>
+		
+		
+		</ul>
+      </div>
+	   
+      <div class="span6">
+		  <div id="contacts">
+	        <p></p>
+
+	        <h4>How to contact me:</h4>
+
+	        <ul>
+	          <li><a href="mailto:roman@tronenko.net">Email</a></li>
+	          <li><a href="http://facebook.com/tronenko">Facebook</a></li>
+	          <li><a href="http://twitter.com/morphium">Twitter</a></li>
+	          <li><a href="http://github.com/morphium">GitHub</a></li>
+	          <li><a href="http://stackoverflow.com/users/716477/morphium">StackOverflow</a></li>
+	        </ul>
+	      </div> 
+      </div>
+		<div class="span6"> 
+			 <div id="like_btns">
+				<p></p>
+				<div class="fb-like" data-send="false" data-layout="button_count" data-width="550" data-show-faces="true" data-font="lucida grande"></div>
+				<p></p>
+				<g:plusone size="medium"></g:plusone>
+				<p></p>
+				<a href="https://twitter.com/share" class="twitter-share-button" data-via="morphium" data-hashtags="tronenko">Tweet</a>
+				<p></p>
+				<a href="http://bufferapp.com/add" class="buffer-add-button" data-count="horizontal">Buffer</a><script type="text/javascript" src="http://static.bufferapp.com/js/button.js"></script>
+				<p></p>
+			</div>  
+		</div>
+
+    </div>
+    
+    <div class="row">
+      <div class="span10">
+		<div id="disqus_thread"></div>
+	  </div>
+	</div>
+    <footer>
+      <p><small>Footer goes here.</small></p>
+    </footer>
+ 
+  </div> 
+</body>
+</html>
