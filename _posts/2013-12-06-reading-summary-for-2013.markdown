@@ -19,11 +19,11 @@ I will group them by languages and leave some short comments:
 
 Esperanto
 
-1. Gerda malaperis (Gerda disappeared):
+1. *Gerda malaperis* (Gerda disappeared):
    Probably one of the most famous books among people who has just shown interest in Esperanto. 
-   Remarkable for its style, as it's written in the way that the further you read, the more complicated the language becomes.
+   Remarkable for its style, as it's written in the way that the further you read it, the more complicated its language becomes.
 
-2. La adventuroj de Alicio in Mirlando (Alice's Adventures in Wonderland):
+2. *La adventuroj de Alicio in Mirlando* (Alice's Adventures in Wonderland):
    The first book I had ever read in a foreign language (English), now has also become the first complete book I've finished in the international language.
    Yes, it's a translation, of course. But I still enjoyed it very much.
    
@@ -33,19 +33,19 @@ Esperanto
    
 Chinese
 
-4. 爱丽丝漫游奇境记 (Alice's Adventures in Wonderland):
+4. *爱丽丝漫游奇境记* (Alice's Adventures in Wonderland):
    Yes, Alice again. This is one of my favorite books, and now I can proudly announce that I've read this book in all languages I speak and learn.
    
-5. 小王子 (The Little Prince):
+5. *小王子 (The Little Prince)*:
    I had a great pleasure reading this brilliant book in Chinese. It's also one of those books, which you can read again when you are a grown-up,
    and learn something new from it. Same as Alice, I've focused on not missing a single unknown word from the book, to improve my vocabulary.
    
 English
 
-6. The 4-hour Body [by Timothy Ferris]: 
+6. *The 4-hour Body* [by Timothy Ferris]: 
    The book I already wrote an article about, which, despite my aversion to the way author conveys information, helped me to improve the quality of my flesh dramatically.
    
-7. Brave New World [by Aldous Huxley, 1931]: 
+7. *Brave New World* [by Aldous Huxley, 1931]: 
    This is classical, and also one of not many non-ebooks I've read this year. I had found the printed version of the novel back in year 2010 at one of the islands of Thailand,
    and only in 2013 finally finished reading it. 
    
